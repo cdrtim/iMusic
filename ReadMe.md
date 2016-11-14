@@ -1,2 +1,2 @@
-IMusic written by Pham Ngoc Hai
+iMp3 written by Pham Ngoc Hai
 TechMaster
